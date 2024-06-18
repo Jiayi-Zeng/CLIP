@@ -1,5 +1,4 @@
 ftfy
-packaging
 regex
 tqdm
 torch
